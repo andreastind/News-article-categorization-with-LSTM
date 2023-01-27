@@ -1,0 +1,17 @@
+
+.idea/workspace.xml
+.idea/
+Source/__pycache__/Dataloader.cpython-37.pyc
+Source/__pycache__/Dataloader.cpython-37.pyc
+Source/__pycache__/RNNModel.cpython-37.pyc
+Source/__pycache__/Dataloader.cpython-37.pyc
+Source/__pycache__/RNNModel.cpython-37.pyc
+*.pyc
+Source/.neptune/async/e77065ec-d8ac-4d79-895f-9513bfff5510/exec-0-2021-12-10_23.50.42.011799/last_put_version
+Source/.neptune/async/82c3a97a-5699-49cf-a445-dafe5a8c2725/exec-0-2021-12-11_01.01.09.637852/last_ack_version
+*.log
+Source/.neptune/async/82c3a97a-5699-49cf-a445-dafe5a8c2725/exec-0-2021-12-11_01.01.09.637852/last_put_version
+Source/.neptune/async/e77065ec-d8ac-4d79-895f-9513bfff5510/exec-0-2021-12-10_23.50.42.011799/last_ack_version
+Source/.neptune/async/f247fb4b-f0be-4bf9-9c65-d8b690a3e08b/exec-0-2021-12-11_14.06.48.587682/last_put_version
+Source/.neptune/async/f247fb4b-f0be-4bf9-9c65-d8b690a3e08b/exec-0-2021-12-11_14.06.48.587682/last_ack_version
+Source/.neptune/async/fa10e5db-3ff5-4cfa-b060-aa84ac1f6f0c/exec-0-2021-12-11_18.32.11.672312/last_ack_version
